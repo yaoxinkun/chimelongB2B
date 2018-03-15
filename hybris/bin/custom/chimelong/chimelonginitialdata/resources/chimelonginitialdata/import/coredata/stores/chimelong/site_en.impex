@@ -17,3 +17,4 @@ $lang=en
 
 # Create CMS Site
 UPDATE CMSSite;uid[unique=true];name[lang=$lang];locale[lang=$lang]
+ ;chimelong;"Chimelong Site";en_GB
